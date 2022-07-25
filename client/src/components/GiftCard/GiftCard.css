@@ -1,0 +1,23 @@
+/* @author : Dhairya Analbhai Doctor
+@bannerID : B00864868
+@email : dh973257@dal.ca 
+@description: CSS file for styling gift card.*/
+.user-card, .gift-card {
+    width: 50%;
+    padding: 40px;
+    border-top: 3px solid purple;
+}
+
+.title {
+    color: purple;
+    font-weight: 100 !important;
+    margin-bottom: 40px !important;
+}
+
+.user-input {
+    width: 50%;
+}
+
+.gift-card-text {
+    color: purple;
+}

@@ -1,0 +1,1 @@
+export const INSERT_REVIEW = "INSERT_REVIEW";

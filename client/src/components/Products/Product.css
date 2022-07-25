@@ -1,0 +1,30 @@
+.product-details {
+    padding: 20px;
+}
+
+.product-details-heading {
+    font-weight: 200 !important;
+    font-size: 50px;
+}
+
+.item-info-text {
+    font-size: 16px !important;
+}
+
+.product-btn {
+    padding: 10px;
+    background-color: transparent;
+    border: 1px solid blueviolet;
+    color: blueviolet !important;
+    border-radius: 8px;
+}
+
+.product-btn:hover {
+    background-color: rgb(247, 238, 255);
+    transition: background-color 0.3s ease-in-out;
+}
+
+.comments {
+    font-weight: 200 !important;
+    font-size: 48px !important;
+}

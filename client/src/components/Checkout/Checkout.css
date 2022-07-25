@@ -1,0 +1,107 @@
+/* @author : Dhairya Analbhai Doctor
+@bannerID : B00864868
+@email : dh973257@dal.ca
+@description: Styling checkout component*/
+
+.heading-2 {
+    font-weight: 300 !important;
+    font-size: larger !important;
+}
+
+.heading-3 {
+    font-weight: 500 !important;
+    font-size: large !important;
+}
+
+.item-checklist-card, .order-summary-card {
+    padding: 20px !important;
+    margin: 20px !important;
+}
+
+/* #ffcad4 */
+.order-summary-card {
+    border-top: 8px solid purple;
+}
+
+
+.item-info {
+    margin-top: 2px;
+    margin-left: 20px;
+}
+
+.item-info-title {
+    font-weight: 700 !important;
+    font-size: 16px !important;
+    border: 1px solid transparent;
+    border-radius: 12px;
+}
+
+.item-info-text {
+    font-size: 14px !important;
+}
+
+.item-price {
+    font-weight: 500 !important;
+}
+
+.order-summary-title {
+    font-weight: 400 !important;
+    font-size: 24px !important;
+    margin-bottom: 10px !important;
+}
+
+.pricing-information, .total {
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    font-weight: 400 !important;
+    margin-bottom: 7px;
+}
+
+.pricing-type {
+    font-weight: 600;
+}
+
+.total {
+    font-size: 18px;
+    font-weight: 600 !important;
+    border-bottom: 3px solid #d0d1d2;
+    padding-bottom: 18px;
+}
+
+.coupon-class {
+    padding-bottom: 30px;
+}
+
+.coupon-input {
+    width: 70%;
+}
+
+.promo-code-btn {
+    background-color: black !important;
+    width: 25%;
+    color: white !important;
+    margin-left: 10px !important;
+    padding-top: 14px !important;
+    padding-bottom: 14px !important;
+}
+
+.checkout-btn {
+    background-color: black !important;
+    color: white !important;
+    width: 100%;
+}
+
+.deliveryAddress {
+    width: 100%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+}
+
+
+@media (max-width: 900px) {
+    .order-summary, .items-checklist {
+        flex-basis: 100% !important;
+        max-width: 100% !important;
+    }
+}

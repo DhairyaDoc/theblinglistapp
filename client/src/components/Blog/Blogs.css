@@ -1,0 +1,17 @@
+/***
+ * @author : Guryash Singh Dhall
+ * @bannerID : B00910690
+ * @email : guryash.dhall@dal.ca
+ ***/
+
+.blog-heading {
+    padding: 6px;
+}
+
+.blog-title {
+    font-weight: 300 !important;
+}
+
+.blog-text {
+    font-size: 100% !important;
+}
