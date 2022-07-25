@@ -5,83 +5,73 @@ The Blinglist is an online ecommerce web application used to buy jewellery. This
 ---
 ## Authors of the whole Project
 ---
-- [Dhairya Analbhai Doctor - B00864868](dh973257@dal.ca) - (Maintainer)
-- [Aayushi Gandhi - B00890697](ay753882@dal.ca) - (Maintainer)
-- [Suchitra Dhamu - B00897187](sc632007@dal.ca) - (Maintainer)
-- [Aditya Satendra Dixit - B00874076](ad433393@dal.ca) - (Maintainer)
-- [Guryash Singh Dhall - B00910690](gr622265@dal.ca) - (Maintainer)
-- [Parvish Vijay Gajjar - B00912090](pr222321@dal.ca)- (Maintainer)
+- Dhairya Analbhai Doctor
+- Aayushi Gandhi
+- Suchitra Dhamu
+- Aditya Satendra Dixit
+- Guryash Singh Dhall
+- Parvish Vijay Gajjar
 
 ---
 ## Application Details
 ---
-
-### BlingList Git Repository Link
-- [BlingList Git Repository](https://git.cs.dal.ca/doctor/theblinglist)
-
-### BlingList Frontend Deployment URL
-- [BlingList FrontEnd URL](http://theblinglist.herokuapp.com/)
-
-### Blinglist Backend Deployment URL
-- [BlingList Backend URL](https://theblinglist-backend.herokuapp.com/)
-
 ### Application features list along with their task
-1. User management **(Guryash Singh Dhall - B00910690)**
+1. User management
    - User Registration
    - User Login
    - Forget Password
    - View Profile
    - Edit Profile
   
-2. Blog **(Guryash Singh Dhall - B00910690)**
+2. Blog
    - Add a blog
    - View all blogs
    - View blogs of the logged user
   
-3. User Dashboard **(Aayushi Gandhi - B00890697)**
+3. User Dashboard
    - Show products based on user search.
    - Show recently arrived products.
    - Show most popular products (Products bought by most of the customers).
    - Show products with most reviews.
 
-4. Admin Interface **(Aayushi Gandhi - B00890697)**
+4. Admin Interface
    - Add products
    - Delete products
    - Edit products
 
-5. Search, Sort, Filter, and View Products **(Parvish Vijay Gajjar - B00912090)**
+5. Search, Sort, Filter, and View Products
    - View product details
    - Searching and Filtering API
 
-6. Add to favorites **(Parvish Vijay Gajjar - B00912090)**
+6. Add to favorites
    - Add products to favorites
    - Remove products from favorites
    - View logged in user favorites list
   
-7. Find a store **(Suchitra Dhamu - B00897187)**
+7. Find a store
    - Display store info including timings
    - Search item on location page
   
-8. Manage orders **(Suchitra Dhamu - B00897187)**
+8. Manage orders
    - View previous orders
    - Filter previous orders
    - Reorder same orders
   
-9.  Add to cart **(Aditya Satendra Dixit - B00874076)**
+9.  Add to cart
     - Adding product to cart
     - Increase or Decrease number of items in the cart
     - Remove items from the cart
   
-10. Reviews **(Aditya Satendra Dixit - B00874076)**
+10. Reviews
     - Add a review
     - View all reviews given to the products
   
-11. Checkout **(Dhairya Doctor - B00864868)**
+11. Checkout
     - Stripe payment integration
     - View all products that are to be bought
     - Calculate amount to be paid (Apply promocode discount, taxes, shipping cost)
   
-12. Get a Gift Card **(Dhairya Doctor - B00864868)**
+12. Get a Gift Card
     - Select gift card from the list of gift card
     - Collect user basic information
     - Collect amount to be added to the gift card
